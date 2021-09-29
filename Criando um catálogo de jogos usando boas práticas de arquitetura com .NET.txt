@@ -1,0 +1,85 @@
+
+Criando um catálogo de jogos usando boas práticas de arquitetura com .NET
+
+Pasta: Aplicativo-catalogo-jogos
+
+Pasta: EX-api-catalogo-jogos
+
+Pasta Controlelers/v1
+ciclodevidacontrollers.rc
+jogoscontrollers.cs
+
+Pasta entities
+jogo.cs
+
+Pasta exceptions
+jogojacadastradoexception.cs
+jogonaocadastradoexception.cs
+
+
+Pasta inputmodel
+jogoinputmodel.cs
+
+
+Pasta Middleware
+exceptionmiddleware.cs
+
+Pasta obj
+exemploapicatalogojogos.csproj.nuget.dgspec.json
+exemploapicatalogojogos.csproj.nuget.g.props
+exemploapicatalogojogos.csproj.nuget.g.targets
+project.assets.json
+project.nuget.cache
+
+
+Pasta properties
+launchsettings.joson
+
+Pasta repositories
+
+Ijogorepository.cs
+jogorepository.cs
+jogosqlserverrepository.cs
+
+Pasta services
+Ijogoservice.cs
+jogoservice.cs
+
+Pasta viewmodel
+jogoviewmodel.cs
+
+
+appsettings.development.json
+appsettings.json
+exemploapicatalogojogos.csproj
+exemploapicatalogojogos.xml
+Program.cs
+Startup.cs
+
+exemploapicatalogojogos.sln
+readme.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
