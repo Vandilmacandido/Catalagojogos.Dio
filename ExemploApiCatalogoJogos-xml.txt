@@ -1,5 +1,6 @@
 ExemploApiCatalogoJogos-xml
 
+
 <?xml version="1.0"?>
 <doc>
     <assembly>
@@ -62,3 +63,4 @@ ExemploApiCatalogoJogos-xml
         </member>
     </members>
 </doc>
+

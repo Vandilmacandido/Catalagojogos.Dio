@@ -19,3 +19,4 @@ ExemploApiCatalogoJogos-csproj
   </ItemGroup>
 
 </Project>
+
